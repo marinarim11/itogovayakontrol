@@ -1,0 +1,15 @@
+/Users/marinagrecko/Desktop/itog/itogovayakontrol/it/it/bin/Debug/net7.0/it
+/Users/marinagrecko/Desktop/itog/itogovayakontrol/it/it/bin/Debug/net7.0/it.deps.json
+/Users/marinagrecko/Desktop/itog/itogovayakontrol/it/it/bin/Debug/net7.0/it.runtimeconfig.json
+/Users/marinagrecko/Desktop/itog/itogovayakontrol/it/it/bin/Debug/net7.0/it.dll
+/Users/marinagrecko/Desktop/itog/itogovayakontrol/it/it/bin/Debug/net7.0/it.pdb
+/Users/marinagrecko/Desktop/itog/itogovayakontrol/it/it/obj/Debug/net7.0/it.csproj.AssemblyReference.cache
+/Users/marinagrecko/Desktop/itog/itogovayakontrol/it/it/obj/Debug/net7.0/it.GeneratedMSBuildEditorConfig.editorconfig
+/Users/marinagrecko/Desktop/itog/itogovayakontrol/it/it/obj/Debug/net7.0/it.AssemblyInfoInputs.cache
+/Users/marinagrecko/Desktop/itog/itogovayakontrol/it/it/obj/Debug/net7.0/it.AssemblyInfo.cs
+/Users/marinagrecko/Desktop/itog/itogovayakontrol/it/it/obj/Debug/net7.0/it.csproj.CoreCompileInputs.cache
+/Users/marinagrecko/Desktop/itog/itogovayakontrol/it/it/obj/Debug/net7.0/it.dll
+/Users/marinagrecko/Desktop/itog/itogovayakontrol/it/it/obj/Debug/net7.0/refint/it.dll
+/Users/marinagrecko/Desktop/itog/itogovayakontrol/it/it/obj/Debug/net7.0/it.pdb
+/Users/marinagrecko/Desktop/itog/itogovayakontrol/it/it/obj/Debug/net7.0/it.genruntimeconfig.cache
+/Users/marinagrecko/Desktop/itog/itogovayakontrol/it/it/obj/Debug/net7.0/ref/it.dll
